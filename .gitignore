@@ -8,7 +8,7 @@ __pycache__/
 venv/
 env/
 .venv/
-
+.env
 # Rasa
 models/
 rasa.db
